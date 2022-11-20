@@ -12,10 +12,7 @@ import androidx.recyclerview.widget.DefaultItemAnimator
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.madpractical11_20012021007.databinding.ActivityMainBinding
-import com.example.madpractical11_20012021007.databinding.ActivityMainBinding.inflate
-import com.example.madpractical11_20012021007.databinding.ActivityNoteViewBinding.inflate
 import com.example.madpractical11_20012021007.databinding.NoteEditViewBinding
-import com.example.madpractical11_20012021007.databinding.NoteItemViewBinding.inflate
 
 
 class MainActivity : AppCompatActivity() {
